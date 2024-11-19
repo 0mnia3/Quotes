@@ -1,0 +1,26 @@
+ .title{
+    font-size: 80px;
+    font-weight: 700;
+    font-family: 'Impact', sans-serif;
+   
+
+
+}
+ .text , .quote , .author {
+    font-family: 'Times New Roman', sans-serif;
+    font-size: 35px;
+    font-weight: 400;                                          
+}
+ .btn{
+    border: 3px black solid;
+    width: 250px;
+    height: 80px;
+    background-color: blue;
+    color: white;
+    border-radius:3px;
+}
+ .btn:hover{
+    background-color:#008000;
+    border: 2px black solid;
+    color: white;
+}
